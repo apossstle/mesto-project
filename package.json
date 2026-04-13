@@ -1,0 +1,18 @@
+{
+  "name": "mesto-ad-main",
+  "version": "1.0.0",
+  "description": "Стартовый набор для выполнения проектной работы Место Для запуска приложения необходимо использовать live-server ![изображение live-server](image.png) Live-server является расширением VSCode",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^8.0.8"
+  }
+}
